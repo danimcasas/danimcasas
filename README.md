@@ -18,7 +18,7 @@
 ## 🎨 My World
 
 <p align="center">
-  <img src="" alt="Cyberpunk city scene" width="800">
+  <img src="img/profile_danimcasas_post.gif" alt="Cyberpunk city scene" width="800">
 </p>
 
 > “Even in a post-apocalyptic world, knowledge is the last light that never fades.”
