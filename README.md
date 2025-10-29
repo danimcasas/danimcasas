@@ -24,6 +24,19 @@
 > “Even in a post-apocalyptic world, knowledge is the last light that never fades.”
 
 ---
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" alt="Starstruck badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" alt="Galaxy Brain badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" alt="Arctic Code Vault badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark badge" />
+</p>
+
+> ✨ *Proud contributor to the open-source world. Always learning, teaching, and building together.*
+
 
 ## 📚 Featured Project
 
